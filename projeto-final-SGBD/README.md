@@ -30,7 +30,7 @@ Sistema de Gerenciamento de Banco de Dados (SGBD) da matéria de Introdução à
 
 - **Salvamento e Carregamento de Dados:**
    - Implementadas funções para salvar e carregar o estado do banco de dados em um arquivo.
-   - O arquivo `bancoDados.itp` é utilizado para armazenar os dados persistentemente.
+   - O arquivo `bancodados.itp` é utilizado para armazenar os dados persistentemente.
 
 ## Uso da Aplicação
 
